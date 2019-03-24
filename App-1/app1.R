@@ -141,7 +141,7 @@ ui <- dashboardPage(
                             
                           ),
                           box(width = 12, title = "Source code", status = "primary", solidHeader = TRUE, 
-                              h2(a(href="https://github.com/martakubalska", "github.com/martakubalska")))
+                              h2(a(href="https://github.com/martakubalska/rekrutacja_dashboard", "github.com/martakubalska/rekrutacja_dashboard")))
                    )
                    
             
